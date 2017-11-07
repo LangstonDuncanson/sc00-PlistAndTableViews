@@ -8,24 +8,28 @@
 
 /* Begin PBXBuildFile section */
 		CE4A25A91FB12EDF006ADE44 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CE4A25A81FB12EDF006ADE44 /* AppDelegate.m */; };
-		CE4A25AC1FB12EDF006ADE44 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE4A25AB1FB12EDF006ADE44 /* ViewController.m */; };
 		CE4A25AF1FB12EDF006ADE44 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE4A25AD1FB12EDF006ADE44 /* Main.storyboard */; };
 		CE4A25B11FB12EDF006ADE44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE4A25B01FB12EDF006ADE44 /* Assets.xcassets */; };
 		CE4A25B41FB12EDF006ADE44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE4A25B21FB12EDF006ADE44 /* LaunchScreen.storyboard */; };
 		CE4A25B71FB12EDF006ADE44 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CE4A25B61FB12EDF006ADE44 /* main.m */; };
+		CE4A25BF1FB1300D006ADE44 /* NamesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE4A25BE1FB1300D006ADE44 /* NamesTableViewController.m */; };
+		CE4A25C11FB13218006ADE44 /* names.plist in Resources */ = {isa = PBXBuildFile; fileRef = CE4A25C01FB13218006ADE44 /* names.plist */; };
+		CE4A25C61FB13D47006ADE44 /* USStates.plist in Resources */ = {isa = PBXBuildFile; fileRef = CE4A25C51FB13D47006ADE44 /* USStates.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CE4A25A41FB12EDF006ADE44 /* sc00-PlistAndTableViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sc00-PlistAndTableViews.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4A25A71FB12EDF006ADE44 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		CE4A25A81FB12EDF006ADE44 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		CE4A25AA1FB12EDF006ADE44 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		CE4A25AB1FB12EDF006ADE44 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		CE4A25AE1FB12EDF006ADE44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CE4A25B01FB12EDF006ADE44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE4A25B31FB12EDF006ADE44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE4A25B51FB12EDF006ADE44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE4A25B61FB12EDF006ADE44 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CE4A25BD1FB1300D006ADE44 /* NamesTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NamesTableViewController.h; sourceTree = "<group>"; };
+		CE4A25BE1FB1300D006ADE44 /* NamesTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NamesTableViewController.m; sourceTree = "<group>"; };
+		CE4A25C01FB13218006ADE44 /* names.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = names.plist; sourceTree = "<group>"; };
+		CE4A25C51FB13D47006ADE44 /* USStates.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = USStates.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,17 +62,27 @@
 		CE4A25A61FB12EDF006ADE44 /* sc00-PlistAndTableViews */ = {
 			isa = PBXGroup;
 			children = (
+				CE4A25C21FB1329D006ADE44 /* Supporting Files */,
 				CE4A25A71FB12EDF006ADE44 /* AppDelegate.h */,
 				CE4A25A81FB12EDF006ADE44 /* AppDelegate.m */,
-				CE4A25AA1FB12EDF006ADE44 /* ViewController.h */,
-				CE4A25AB1FB12EDF006ADE44 /* ViewController.m */,
 				CE4A25AD1FB12EDF006ADE44 /* Main.storyboard */,
+				CE4A25BD1FB1300D006ADE44 /* NamesTableViewController.h */,
+				CE4A25BE1FB1300D006ADE44 /* NamesTableViewController.m */,
 				CE4A25B01FB12EDF006ADE44 /* Assets.xcassets */,
 				CE4A25B21FB12EDF006ADE44 /* LaunchScreen.storyboard */,
 				CE4A25B51FB12EDF006ADE44 /* Info.plist */,
 				CE4A25B61FB12EDF006ADE44 /* main.m */,
+				CE4A25C51FB13D47006ADE44 /* USStates.plist */,
 			);
 			path = "sc00-PlistAndTableViews";
+			sourceTree = "<group>";
+		};
+		CE4A25C21FB1329D006ADE44 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CE4A25C01FB13218006ADE44 /* names.plist */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -130,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE4A25B41FB12EDF006ADE44 /* LaunchScreen.storyboard in Resources */,
+				CE4A25C11FB13218006ADE44 /* names.plist in Resources */,
 				CE4A25B11FB12EDF006ADE44 /* Assets.xcassets in Resources */,
+				CE4A25C61FB13D47006ADE44 /* USStates.plist in Resources */,
 				CE4A25AF1FB12EDF006ADE44 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -142,8 +158,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE4A25AC1FB12EDF006ADE44 /* ViewController.m in Sources */,
 				CE4A25B71FB12EDF006ADE44 /* main.m in Sources */,
+				CE4A25BF1FB1300D006ADE44 /* NamesTableViewController.m in Sources */,
 				CE4A25A91FB12EDF006ADE44 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

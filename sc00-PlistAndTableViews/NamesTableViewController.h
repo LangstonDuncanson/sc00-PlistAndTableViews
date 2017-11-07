@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NamesTableViewController.h
 //  sc00-PlistAndTableViews
 //
 //  Created by user on 11/6/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NamesTableViewController : UITableViewController
 
 @end
-

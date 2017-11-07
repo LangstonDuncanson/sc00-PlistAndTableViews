@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<dict>
+			<key>stateName</key>
+			<string>Alabama</string>
+			<key>yearJoinedUnion</key>
+			<date>1819-12-14T01:06:49Z</date>
+			<key>flag</key>
+			<string>alabama-state-flag</string>
+			<key>Motto</key>
+			<string>We dare defend our rights</string>
+			<key>capitalCity</key>
+			<string>Montgomery</string>
+			<key>population</key>
+			<integer>4858979</integer>
+		</dict>
+		<dict>
+			<key>stateName</key>
+			<string>Alaska</string>
+			<key>yearJoinedUnion</key>
+			<date>1959-01-03T01:06:49Z</date>
+			<key>flag</key>
+			<string>alaska-state-flag</string>
+			<key>Motto</key>
+			<string>north to the future</string>
+			<key>capitalCity</key>
+			<string>Juneau</string>
+			<key>population</key>
+			<integer>738432</integer>
+		</dict>
+		<dict>
+			<key>stateName</key>
+			<string>Arizona</string>
+			<key>yearJoinedUnion</key>
+			<date>1912-02-14T01:06:49Z</date>
+			<key>flag</key>
+			<string>arizona-state-falg</string>
+			<key>Motto</key>
+			<string>God enriches</string>
+			<key>capitalCity</key>
+			<string>Phoenix</string>
+			<key>population</key>
+			<integer>6828065</integer>
+		</dict>
+		<dict>
+			<key>stateName</key>
+			<string>Arkansas</string>
+			<key>yearJoinedUnion</key>
+			<date>1836-06-15T01:06:49Z</date>
+			<key>flag</key>
+			<string>arkansas-state-flag</string>
+			<key>Motto</key>
+			<string>The people rule</string>
+			<key>capitalCity</key>
+			<string>Little Rock</string>
+			<key>population</key>
+			<integer>2978204</integer>
+		</dict>
+	</array>
+	<key>C</key>
+	<array>
+		<dict>
+			<key>stateName</key>
+			<string>California</string>
+			<key>yearJoinedUnion</key>
+			<date>1850-09-19T01:06:49Z</date>
+			<key>flag</key>
+			<string>california-state-flag</string>
+			<key>Motto</key>
+			<string>i have found it</string>
+			<key>capitalCity</key>
+			<string>Sacramento</string>
+			<key>population</key>
+			<integer>39144818</integer>
+		</dict>
+		<dict>
+			<key>stateName</key>
+			<string>Colorado</string>
+			<key>yearJoinedUnion</key>
+			<date>1876-08-01T01:06:49Z</date>
+			<key>flag</key>
+			<string>colorado-state-flag</string>
+			<key>Motto</key>
+			<string>Nothing without the Deity</string>
+			<key>capitalCity</key>
+			<string>Denver</string>
+			<key>population</key>
+			<integer>5456574</integer>
+		</dict>
+		<dict>
+			<key>stateName</key>
+			<string>Connecticut</string>
+			<key>yearJoinedUnion</key>
+			<date>1788-01-09T01:06:49Z</date>
+			<key>flag</key>
+			<string>connecticut-state-flag</string>
+			<key>Motto</key>
+			<string>He who transplanted sustains</string>
+			<key>capitalCity</key>
+			<string>Hartford</string>
+			<key>population</key>
+			<integer>3590886</integer>
+		</dict>
+	</array>
+	<key>D</key>
+	<array>
+		<dict>
+			<key>stateName</key>
+			<string>Delaware</string>
+			<key>yearJoinedUnion</key>
+			<date>1787-12-07T01:06:49Z</date>
+			<key>flag</key>
+			<string>delaware-state-flag</string>
+			<key>Motto</key>
+			<string>Liberty and Independence</string>
+			<key>capitalCity</key>
+			<string>Dover</string>
+			<key>population</key>
+			<integer>945934</integer>
+		</dict>
+	</array>
+	<key>F</key>
+	<array>
+		<dict>
+			<key>stateName</key>
+			<string>Florida</string>
+			<key>yearJoinedUnion</key>
+			<date>1845-03-03T01:06:49Z</date>
+			<key>flag</key>
+			<string>florida-state-flag</string>
+			<key>Motto</key>
+			<string>In God We Trust</string>
+			<key>capitalCity</key>
+			<string>Tallahassee</string>
+			<key>population</key>
+			<integer>20271272</integer>
+		</dict>
+	</array>
+	<key>G</key>
+	<array>
+		<dict>
+			<key>stateName</key>
+			<string>Georgia</string>
+			<key>yearJoinedUnion</key>
+			<date>1788-01-02T01:06:49Z</date>
+			<key>flag</key>
+			<string>georgia-state-flag</string>
+			<key>Motto</key>
+			<string>Wisdom, Justice and Moderation</string>
+			<key>capitalCity</key>
+			<string>Atlanta</string>
+			<key>population</key>
+			<integer>10214860</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
